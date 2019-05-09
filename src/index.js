@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const song = `Baby Shark doo doo doo doo doo doo
 Baby Shark doo doo doo doo doo doo
 Baby Shark doo doo doo doo doo doo
@@ -23,4 +21,11 @@ Grandma Shark!`;
 
 // Split the song String into an array by new line
 
-console.log(song.split("\n"));
+var splitSong = song.split("\n");
+for(var i=0; i<splitSong.length; i++){
+    var node = document.createElement("LI");  
+    var textnode = document.createTextNode(splitSong[i])
+    node.appendChild(textnode);
+    document.getElementById("lyrics-list").appendChild(node);
+}
+
