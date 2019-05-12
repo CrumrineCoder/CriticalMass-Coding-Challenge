@@ -27,7 +27,7 @@ xSum is an open source ping-testing tool by xOps, a DevOps consulting company. I
  
 **Headliner Video**
 
-Headliner Video is an online editor tool I built test plans for bugs and mismatches between development and mockups with an eagle eye for detail. I communicated the failed tests to the project manager. I did independent research on QA best practices and learned automated testing with Python, Selenium, and Cypress. 
+Headliner Video is an online editor tool, and I built test plans for bugs and mismatches between development and mockups with an eagle eye for detail. I communicated the failed tests to the project manager. I did independent research on QA best practices and learned automated testing with Python, Selenium, and Cypress. 
 
  
  
