@@ -15,14 +15,17 @@ https://crumrinecoder.github.io/CriticalMass-Coding-Challenge/
 *Provide up to three examples of work/projects that you've recently participated in and provide detailed information about your role and contributions to the project.*
  
 **Rapture Fashion**
+
 Rapture Fashion is a boutique fashion website I designed based on UX case studies and existing fashion sites. It was built with React and Shopify’s storefront API. It was practice for small business websites and using Shopify as checkout security and inventory management. 
 
  
 **xSum**
+
 xSum is an open source ping-testing tool for xOps, a DevOps consulting company. I worked with a designer who handed off mockups to me to build the front end interface from with React. I communicated with a backend team on daily standups and biweekly sprints. I also did user research to find pain points to help the founder drive development. 
 
  
 **Headliner Video**
+
 Headliner is an online editor tool I built test plans for bugs and mismatches between development and mockups with an eagle eye for detail. I communicated the failed tests to the project manager. I did independent research on QA best practices and learned automated testing with Python, Selenium, and Cypress. 
 
  
@@ -31,14 +34,17 @@ Headliner is an online editor tool I built test plans for bugs and mismatches be
 *Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.*
  
 **Duolingo**
+
 Duolingo was my original inspiration for learning web development due to its use of algorithms to personalize how each user learns. I found Duolingo to be much more helpful than school for learning languages, and I hope I can similarly use my websites to help people with burdensome tasks.
 
  
 **Talk to Transformer**
+
 Talk to Transformer is a very recent app that creates coherent paragraphs with an AI which was taught with machine learning. I’m always fascinated by these type of projects, and I want to experiment with TensorFlow for machine learning.
 
  
 **Meetup.com**
+
 Meetup.com uses algorithms to put like-minded people together. I find it easy to browse to find new meetups and keep track of what I’m attending. I’m also inspired by the people and talks given at these meetups as they help me to find new specialties, libraries, and techniques to learn. 
 
  
