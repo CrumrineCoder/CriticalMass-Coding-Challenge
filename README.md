@@ -2,6 +2,7 @@
 
 Code can be found in this repository 
 
+Finished result can be found here:
 https://crumrinecoder.github.io/CriticalMass-Coding-Challenge/
 
 ###### Resources
@@ -21,12 +22,12 @@ Rapture Fashion is a boutique fashion website I designed based on UX case studie
  
 **xSum**
 
-xSum is an open source ping-testing tool for xOps, a DevOps consulting company. I worked with a designer who handed off mockups to me to build the front end interface from with React. I communicated with a backend team on daily standups and biweekly sprints. I also did user research to find pain points to help the founder drive development. 
+xSum is an open source ping-testing tool by xOps, a DevOps consulting company. I worked with a designer who handed off mockups to me to build the front end interface from with React. I communicated with a backend team on daily standups and biweekly sprints. I also did user research to find pain points to help the founder drive development. 
 
  
 **Headliner Video**
 
-Headliner is an online editor tool I built test plans for bugs and mismatches between development and mockups with an eagle eye for detail. I communicated the failed tests to the project manager. I did independent research on QA best practices and learned automated testing with Python, Selenium, and Cypress. 
+Headliner Video is an online editor tool I built test plans for bugs and mismatches between development and mockups with an eagle eye for detail. I communicated the failed tests to the project manager. I did independent research on QA best practices and learned automated testing with Python, Selenium, and Cypress. 
 
  
  
