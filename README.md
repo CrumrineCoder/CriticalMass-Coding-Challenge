@@ -1,13 +1,15 @@
 ###### Coding Challenge
 
+Code can be found in this repository 
+
 https://crumrinecoder.github.io/CriticalMass-Coding-Challenge/
 
 ###### Resources
 
-[Portfolio](crumrinecoder.com)
-[About Me](https://nicolascrumrine.com/#/about)
-[Github](https://github.com/CrumrineCoder)
-[LinkedIn](https://www.linkedin.com/in/nicolas-crumrine-50899b120/)
+* [Portfolio](crumrinecoder.com)
+* [About Me](https://nicolascrumrine.com/#/about)
+* [Github](https://github.com/CrumrineCoder)
+* [LinkedIn](https://www.linkedin.com/in/nicolas-crumrine-50899b120/)
 
 ###### Work / Project Examples
 *Provide up to three examples of work/projects that you've recently participated in and provide detailed information about your role and contributions to the project.*
