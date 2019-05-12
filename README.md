@@ -15,49 +15,40 @@ https://crumrinecoder.github.io/CriticalMass-Coding-Challenge/
 *Provide up to three examples of work/projects that you've recently participated in and provide detailed information about your role and contributions to the project.*
  
 **Rapture Fashion**
-* Boutique fashion website I worked on my own
-* Designed based on UX case studies and existing fashion sites
-* Built with React and Shopify’s storefront API
-* Practice for small business websites and using Shopify as checkout security and inventory management
+Rapture Fashion is a boutique fashion website I designed based on UX case studies and existing fashion sites. It was built with React and Shopify’s storefront API. It was practice for small business websites and using Shopify as checkout security and inventory management. 
+
  
 **xSum**
-* Open source ping-testing tool for DevOps consulting company
-* Worked with designer who handed mockups off to me 
-* Built front end interface using React
-* Communicated with backend team on daily standups and biweekly sprints
-* User research to find pain points to help founder drive development
+xSum is an open source ping-testing tool for xOps, a DevOps consulting company. I worked with a designer who handed off mockups to me to build the front end interface from with React. I communicated with a backend team on daily standups and biweekly sprints. I also did user research to find pain points to help the founder drive development. 
+
  
 **Headliner Video**
-* Quality assurance specialist for online video editor
-* Built test plan for bugs and mismatches between development and mockups with eagle eye for detail
-* Communicated failed tests to project manager
-* Independent research on QA best practices and automated testing with Python, Selenium, and Cypress.
+Headliner is an online editor tool I built test plans for bugs and mismatches between development and mockups with an eagle eye for detail. I communicated the failed tests to the project manager. I did independent research on QA best practices and learned automated testing with Python, Selenium, and Cypress. 
+
  
  
 ###### Inspiration
 *Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.*
  
 **Duolingo**
-* Original inspiration for learning web development with good UI and goal of universal knowledge
-* Helped me build habits to learn web development
-* Personalized algorithm for each user
-* I want to take an idea or algorithm from a doctoral paper and implement it like Duolingo has
+Duolingo was my original inspiration for learning web development due to its use of algorithms to personalize how each user learns. I found Duolingo to be much more helpful than school for learning languages, and I hope I can similarly use my websites to help people with burdensome tasks.
+
  
 **Talk to Transformer**
-* Very recent app to create coherent paragraphs with machine learning
-* Want to experiment with tensorflow and machine learning for my connect four AI
+Talk to Transformer is a very recent app that creates coherent paragraphs with an AI which was taught with machine learning. I’m always fascinated by these type of projects, and I want to experiment with TensorFlow for machine learning.
+
  
 **Meetup.com**
-* Easy to browse new meetups and keep track of what I’m attending
-* Inspired by the people and talks at meetups
-* Help me to learn new specialties, libraries, and techniques to try out on old projects
-* Recommended meetups for each user
+Meetup.com uses algorithms to put like-minded people together. I find it easy to browse to find new meetups and keep track of what I’m attending. I’m also inspired by the people and talks given at these meetups as they help me to find new specialties, libraries, and techniques to learn. 
+
  
  
 ###### Focus
 *If you were given the time and resources to build/learn anything you wanted during your internship, where would you choose to focus your efforts? Provide a brief description of how you would spend your time.*
 
+I’m interested in building websites that bring people together and help people self-educate. If given the time and resources, I would build a website that utilizes machine learning to provide adjacent material to what a person is working to help them view the problem in another light. There’s many ideas and algorithms in doctoral papers that are not being utilized for real world applications that I’m currently looking into. 
 
-I would take care to meet people on the team and to learn how to communicate with them effectively as a developer to help make the handoff stage easier. I’m still learning what industry I’m most interested in focusing in on as a developer, and to figure that out the exposure to many different projects while working at an agency would be ideal. I also want to learn how to communicate with clients. We wouldn’t have time to build the next Duolingo, but I want to learn how the planning stage for these projects happen as the only projects I’ve planned out are ones I made myself. 
+I’m learning what type of industries I want to build projects in, so working in an agency would be ideal with exposure to many different projects. I’m also interested in meeting the team of the agency and learning how to communicate with them effectively as a developer so I can be better at receiving hand offs. Being part of an agency would also teach me how to communicate with clients. I also want to learn about how to plan a project from conception to minimum viable product in a team as I’ve only been onboarded onto projects or planned out the entire project by myself.
+
 
 
